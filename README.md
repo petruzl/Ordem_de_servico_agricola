@@ -42,6 +42,10 @@ Desenvolvi um dashboard interativo que permite:
 
 ![Dashboard](images/DashBoard_PowerBI_ordem_de_serviço.png)
 
+![Dashboard](images/modelagem_dados.png)
+
+![Dashboard](images/conexao_banco__gateway.png)
+
 ---
 
 ## 📊 Principais Insights
