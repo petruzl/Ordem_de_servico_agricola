@@ -66,4 +66,23 @@ Desenvolvi um dashboard interativo que permite:
 
 ---
 
-## 📂 Estrutura do projeto
+## 🧠 Sobre o desenvolvimento
+
+Este projeto foi desenvolvido com foco em boas práticas de modelagem de dados e visualização, garantindo:
+
+- Clareza na comunicação dos dados
+- Performance do dashboard
+- Facilidade de uso para o usuário final
+
+---
+
+## 🔗 Acesse o portfólio
+
+👉 https://petruzl.github.io/
+
+---
+
+## 📬 Contato
+- Leandro Petruz - 19995902992
+- LinkedIn: www.linkedin.com/in/leandro-petruz-0208b84b
+- Email: leandro.petruz@gmail.com
